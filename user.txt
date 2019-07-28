@@ -1,0 +1,8 @@
+admin
+administrator
+root
+webmaster
+user
+test
+oracle
+ftp
